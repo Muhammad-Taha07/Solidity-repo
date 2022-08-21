@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: Unlicensed
 pragma solidity ^0.8.15;
 
-// August 21 - Assignment (Task-2) | Muhammad Taha.
+// August 21 - Assignment (Task-2) | Muhammad Taha
 contract task2
 {
     uint myVariable = 10;
