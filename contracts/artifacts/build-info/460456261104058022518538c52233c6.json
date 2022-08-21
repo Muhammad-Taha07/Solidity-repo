@@ -1,0 +1,71 @@
+{
+	"id": "460456261104058022518538c52233c6",
+	"_format": "hh-sol-build-info-1",
+	"solcVersion": "0.8.16",
+	"solcLongVersion": "0.8.16+commit.07a7930e",
+	"input": {
+		"language": "Solidity",
+		"sources": {
+			"contracts/aug 21-Task-2.sol": {
+				"content": "// SPDX-License-Identifier: Unlicensed\n"
+			}
+		},
+		"settings": {
+			"optimizer": {
+				"enabled": false,
+				"runs": 200
+			},
+			"outputSelection": {
+				"*": {
+					"": [
+						"ast"
+					],
+					"*": [
+						"abi",
+						"metadata",
+						"devdoc",
+						"userdoc",
+						"storageLayout",
+						"evm.legacyAssembly",
+						"evm.bytecode",
+						"evm.deployedBytecode",
+						"evm.methodIdentifiers",
+						"evm.gasEstimates",
+						"evm.assembly"
+					]
+				}
+			}
+		}
+	},
+	"output": {
+		"errors": [
+			{
+				"component": "general",
+				"errorCode": "3420",
+				"formattedMessage": "Warning: Source file does not specify required compiler version! Consider adding \"pragma solidity ^0.8.16;\"\n--> contracts/aug 21-Task-2.sol\n\n",
+				"message": "Source file does not specify required compiler version! Consider adding \"pragma solidity ^0.8.16;\"",
+				"severity": "warning",
+				"sourceLocation": {
+					"end": -1,
+					"file": "contracts/aug 21-Task-2.sol",
+					"start": -1
+				},
+				"type": "Warning"
+			}
+		],
+		"sources": {
+			"contracts/aug 21-Task-2.sol": {
+				"ast": {
+					"absolutePath": "contracts/aug 21-Task-2.sol",
+					"exportedSymbols": {},
+					"id": 1,
+					"license": "Unlicensed",
+					"nodeType": "SourceUnit",
+					"nodes": [],
+					"src": "39:0:0"
+				},
+				"id": 0
+			}
+		}
+	}
+}

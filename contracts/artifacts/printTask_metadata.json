@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getMessage",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/5_aug 21-Task-1.sol": "printTask"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/5_aug 21-Task-1.sol": {
+			"keccak256": "0xed2d3e9fb4b6de15cfc24542a8501f736a7f15a5a9909e5011e126d82c78221c",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://b70232b0340bb229b07d8f627f018f030583b2073293b2a22b66d035c20fb34d",
+				"dweb:/ipfs/QmfGRPpnrpJUhCRqZ5JaeQDXbBKTsGmXcQPNfFdvg7c4MJ"
+			]
+		}
+	},
+	"version": 1
+}
