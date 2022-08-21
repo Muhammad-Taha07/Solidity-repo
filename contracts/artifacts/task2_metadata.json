@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"contracts/6_aug 21-Task-2.sol": {
-			"keccak256": "0x9d483621055b27b6d4f7ee420bea3dc8a110c0b0363d63937f887368c79bb013",
+			"keccak256": "0xc7cd3e2e48b338259d0d1a802c13abb63dd175467abc733bf99921f09dbf7005",
 			"license": "Unlicensed",
 			"urls": [
-				"bzz-raw://f0d46e8288b87a072e1f4c9ada4708fdcae48cecb7a3f40aaf8c678a05ff264a",
-				"dweb:/ipfs/QmVHAYjBwnGkihmhp2i39SkoRKLzihd9JeegLN8ZVA2NCJ"
+				"bzz-raw://fb4db960feccca2e853b06ad5ec21c7d923938f727dce27fa049ab5266b96397",
+				"dweb:/ipfs/QmYY7Y9E9pb6mzF5P9cJjV8G3Xt4tNqReRfK7TKa6BcahH"
 			]
 		}
 	},
