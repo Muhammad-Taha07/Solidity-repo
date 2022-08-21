@@ -1,7 +1,10 @@
 // SPDX-License-Identifier: Unlicensed
 pragma solidity ^0.8.15;
+
+// Assignment (Task): Todo-App Solidity.js | Muhammad Taha
 contract todoapp
 {
+
     string detail;
     constructor()
     {
