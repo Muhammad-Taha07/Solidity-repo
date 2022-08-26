@@ -52,7 +52,7 @@ contract Task
    {
        require(a > 0 && b > 0 && c > 0, "Value provided should be greater than 0");
        int result = a + b + c;
-       return result;
+       return result/3;
    }
 // Task-4 End
 
